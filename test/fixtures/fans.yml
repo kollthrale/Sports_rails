@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nation: MyString
+  crazy: false
+  loud_or_not: false
+  gold_medals_country_won: 1
+  population: 1
+
+two:
+  nation: MyString
+  crazy: false
+  loud_or_not: false
+  gold_medals_country_won: 1
+  population: 1
